@@ -3,5 +3,4 @@
 *.iml
 *.class
 *Test.java
-application-dev.yml
 **/test/

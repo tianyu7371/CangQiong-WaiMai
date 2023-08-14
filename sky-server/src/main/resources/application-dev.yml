@@ -5,4 +5,4 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: 753159
+    password: root # 自己的密码
